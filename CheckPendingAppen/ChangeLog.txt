@@ -1,0 +1,7 @@
+V 1.0.0.2
+- Tự động chạy lại acc bị lỗi mạng(ngoại trừ proxy bị sập)
+- Cải thiện tốc độ tool (giảm lag khi tool chạy đa luồng)
+- Max 25 account login tương đương 25 người cùng login 1 lúc(tiết kiệm thời gian)
+- Tốc độ check acc nhanh do sử dụng API (chỉ get info không thao tác kí hay apply được)
+
+BY TRƯƠNG MINH QUÝ
